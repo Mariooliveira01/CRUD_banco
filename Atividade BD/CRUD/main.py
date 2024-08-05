@@ -1,3 +1,4 @@
+#importação das bibliotecas
 import sqlite3
 from funcao_menu import menu
 import conexao
